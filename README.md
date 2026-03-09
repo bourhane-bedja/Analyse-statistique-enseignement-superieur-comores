@@ -39,7 +39,7 @@ graphiques/ → visualisations statistiques issues de l’étude
 ## Auteur
 
 **Bourhane Bedja Ben Ahmed**  
-Licence Statistique – Université Paris Cité
+Licence Statistique – Université des Comores
 
 
 
