@@ -1,27 +1,45 @@
+# Analyse statistique de l’évolution de l’enseignement universitaire aux Comores (2013–2019)
 
-Analyse statistique de l’évolution de l’enseignement universitaire aux Comores (2013–2020)
+## Présentation
 
-Présentation
+Ce projet présente une analyse statistique de l’évolution de l’enseignement universitaire aux Comores entre 2013 et 2019.  
+Il a été réalisé dans le cadre de mon mémoire de DUT en statistique.
 
-Ce projet présente une analyse statistique de l’évolution de l’enseignement universitaire aux Comores entre 2013 et 2020. 
-Il a été réalisé dans le cadre d’un mémoire de DUT en statistique.
+L’objectif est d’étudier les dynamiques d’évolution de l’enseignement supérieur à partir de données institutionnelles.
 
-Objectifs
+---
 
-analyser l’évolution des effectifs étudiants
-étudier la répartition des étudiants par filière
-identifier les tendances d’évolution de l’enseignement supérieur
+## Objectifs
 
-Méthodologie
+- analyser l’évolution des effectifs étudiants
+- étudier la répartition des étudiants par filière
+- identifier les tendances d’évolution de l’enseignement supérieur
 
-L’étude repose sur des méthodes de statistique descriptive et d’analyse de données éducatives.
+---
 
-Structure du projet
+## Méthodologie
 
-rapport/ → mémoire complet  
-synthese/ → résumé de la recherche  
-graphiques/ → visualisations statistiques  
+L’étude repose sur des méthodes de **statistique descriptive** et d’analyse de données éducatives, notamment :
 
-Auteur
+- analyse des effectifs étudiants
+- analyse de la distribution par filière
+- analyse des tendances temporelles
+- visualisation graphique des résultats
 
-Bourhane Bedja Ben Ahmed
+---
+
+## Structure du projet
+
+rapport/ → mémoire complet du projet  
+synthese/ → résumé scientifique de la recherche  
+graphiques/ → visualisations statistiques issues de l’étude  
+
+---
+
+## Auteur
+
+**Bourhane Bedja Ben Ahmed**  
+Licence Statistique – Université Paris Cité
+
+
+
