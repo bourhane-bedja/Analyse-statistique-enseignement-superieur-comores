@@ -42,4 +42,14 @@ graphiques/ → visualisations statistiques issues de l’étude
 Licence Statistique – Université des Comores
 
 
+##  Visualisations principales
+
+### Évolution des effectifs étudiants
+![Évolution des effectifs](images/evolution_effectifs.jpeg)
+
+### Répartition par filière
+![Répartition des filières](images/repartition_filieres.jpeg)
+
+### Tendances temporelles
+![Tendances temporelles](images/tendance_temporelle.jpeg)
 
