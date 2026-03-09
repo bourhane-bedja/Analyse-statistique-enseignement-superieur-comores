@@ -36,18 +36,23 @@ graphiques/ → visualisations statistiques issues de l’étude
 
 ---
 
-
-
-
-##  Visualisations principales
+## 📊 Visualisations principales
 
 ### Évolution des effectifs par composante (2013–2020)
 ![Effectifs par composante](images/effectifs_par_composante_2013_2020.jpeg)
 
+---
+
 ### Diplômés DUT (2013–2019)
 ![Diplômés DUT](images/diplomes_DUT_2013_2019.jpeg)
 
+---
+
 ### Diplômés licence par composante (2013–2019)
 ![Diplômés licence](images/diplomes_licence_par_composante_2013_2019.jpeg)
+
+
+
+
 
 
