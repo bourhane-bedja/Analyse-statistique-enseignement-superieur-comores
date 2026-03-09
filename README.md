@@ -51,6 +51,11 @@ graphiques/ → visualisations statistiques issues de l’étude
 ### Diplômés licence par composante (2013–2019)
 ![Diplômés licence](images/diplomes_licence_par_composante_2013_2019.jpeg)
 
+## Mémoire complet (PDF)
+
+Vous pouvez consulter le mémoire complet ici :
+
+ [Télécharger le mémoire DUT – Analyse statistique de l’enseignement supérieur](Rapport%20du%20Dut.pdf)
 
 
 
