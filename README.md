@@ -67,6 +67,14 @@ graphiques/ → visualisations statistiques issues de l’étude
 > La Faculté des Lettres et Sciences Humaines arrive ensuite avec 378 diplômés.  
 > Ces résultats reflètent les différences de capacité d’accueil, de choix d’orientation et de taux de réussite selon les composantes.
 
+##  Conclusion
+
+L’ouverture de l’Université des Comores a profondément transformé les opportunités d’accès à l’enseignement supérieur, en particulier pour les étudiants comoriens. Les résultats montrent clairement que l’enseignement universitaire joue un rôle essentiel dans la qualification et la mobilité sociale. Toutefois, les mécanismes économiques, politiques et sociaux hérités du secondaire continuent d’influencer l’accès et la réussite dans le supérieur.
+
+L’analyse révèle également une forte féminisation de la population étudiante, ainsi qu’une croissance très marquée des effectifs entre 2013 et 2020. Cette augmentation rapide contraste avec les ressources financières et matérielles limitées dont dispose l’institution.
+
+Si les effectifs étudiants et le personnel augmentent de manière exponentielle, les moyens matériels et financiers, eux, progressent beaucoup plus lentement. L’Université des Comores fait face à un manque important de salles de classe, d’infrastructures adaptées et de ressources financières suffisantes pour répondre aux besoins croissants de la population étudiante.
+
 ## Mémoire complet (PDF)
 
 Vous pouvez consulter le mémoire complet ici :
