@@ -36,7 +36,7 @@ graphiques/ → visualisations statistiques issues de l’étude
 
 ---
 
-## 📊 Visualisations principales
+## Visualisations principales
 
 ### Évolution des effectifs par composante (2013–2020)
 ![Effectifs par composante](images/effectifs_par_composante_2013_2020.jpeg)
